@@ -7040,6 +7040,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "BoDi >= 1.5.0",
       "DocumentFormat.OpenXml >= 2.12.2",
       "Microsoft.NET.Test.Sdk >= 16.3.0",
       "Microsoft.NETCore.App >= 2.1.0",
@@ -7094,6 +7095,10 @@
     "frameworks": {
       "netcoreapp2.1": {
         "dependencies": {
+          "BoDi": {
+            "target": "Package",
+            "version": "[1.5.0, )"
+          },
           "DocumentFormat.OpenXml": {
             "target": "Package",
             "version": "[2.12.2, )"

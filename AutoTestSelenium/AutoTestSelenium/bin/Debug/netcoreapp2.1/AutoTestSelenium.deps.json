@@ -8,7 +8,6 @@
     ".NETCoreApp,Version=v2.1": {
       "AutoTestSelenium/1.0.0": {
         "dependencies": {
-          "BoDi": "1.5.0",
           "DocumentFormat.OpenXml": "2.12.2",
           "Microsoft.NET.Test.Sdk": "16.3.0",
           "Microsoft.TestPlatform.TestHost": "16.3.0",
